@@ -55,7 +55,7 @@ export BLAND_API_KEY=sk-bland-...
 
 ## Provenance
 
-The 11 skills in this repo were written by me for my own use. Third-party skills I use privately (like mattpocock/to-spec, Matt Paquette's excellent public packs) are deliberately not bundled; credit where credit is due, and this repo carries only my original work.
+The 12 skills in this repo were written by me for my own use. Third-party skills I use privately (like mattpocock/to-spec, Matt Paquette's excellent public packs) are deliberately not bundled; credit where credit is due, and this repo carries only my original work.
 
 ## License
 
